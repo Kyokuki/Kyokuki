@@ -8,8 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Kyokuki&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Kyokuki/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
-
+You are my ![Visitor Count](https://profile-counter.glitch.me/Kyokuki/count.svg) visitor,Thank You!💕
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
