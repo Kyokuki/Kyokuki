@@ -1,14 +1,13 @@
 ## Hi there 👋,I'm Kyokuki.
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
+- 🌱 I’m currently learning everything I like.
 - 💬 Ask me about anything related to MATLAB/Python.
 - 📫 How to reach me: caixh35@mail2.sysu.edu.cn
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net)
 
 ![](https://github-readme-stats.vercel.app/api?username=Kyokuki&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Kyokuki/count.svg) visitor,Thank You!💕
+You are my ![Visitor Count](https://profile-counter.glitch.me/Kyokuki/count.svg) visitor. Thank You!💕
 ### My Skill Set
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,cpp,django,docker,matlab,postgres,py,vue)](https://skillicons.dev)
