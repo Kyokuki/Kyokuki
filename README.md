@@ -11,7 +11,7 @@
 You are my ![Visitor Count](https://profile-counter.glitch.me/Kyokuki/count.svg) visitor,Thank You!💕
 ### My Skill Set
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,cpp,django,docker,matlab,postgres,py,vue)](https://skillicons.dev)
 
 
 <!--
